@@ -78,7 +78,468 @@
                         }
                     ]
                 },
-                "estimate_data": []
+                "estimate_data": [
+                    {
+                        "Description": "COPING 16\" SO",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 24\" SO",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 25\"-36\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 36\"-48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "PREMAN COPING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "RADIUS COPING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "GRAVEL STOP",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COUNTER FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SCUPPERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "CONDUCTOR HEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "GUTTER",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SEAMLESS 6\" GUTTER",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "DOWNSPOUTS",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SKIRT FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2 PIECE EXPANSION JT COVERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "EXPANSION BELLOWS & BATT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING MITERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "COPING UNDERLAYMENT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CUT REGLET",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CLEAT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COMPOSITE RAIN SCREEN",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE WET SEAL ",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE REVEAL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE COLUMN COVER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "PROFILE WALL PANELS",
+                        "Quantity": 4000.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "ALUM PLATE PANELS",
+                        "Quantity": 1375.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "ALUM PLATE COLUMN COVER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "SOFFITS",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "STANDING SEAM",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "TALL INSULATED PANEL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "REVEAL INSULATED PANEL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "ACM FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "WALL PANEL FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "STANDING SEAM FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SOFFIT FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "IWP FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "PANEL MITERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "HAT CHANNEL",
+                        "Quantity": 3040.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "ZEE GIRT",
+                        "Quantity": 2200.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "GREEN GIRT W/ INSULATION",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "FASCIA 12\" S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "FASCIA 13\" - 24\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "FASCIA 25\" - 48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "VALLEY FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "HIP AND RIDGE FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "LEDGE FLASHING 12\" S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "LEDGE FLASHING 13\"+ S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "INSULATION - ROOF",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "INSULATION - WALL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "GYP BOARD",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "IWS/AIR BARRIER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "SNOW GUARD PAD STYLE",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SNOW RAIL",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "PITCH PANS UP TO 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "OVERSIZED PAN OVER 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LIDS UP TO 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LIDS OVER 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SPLASH BLOCK",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SPLASH PAN",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "THRU WALL FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "WINDOW/DOOR TRIM",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "3/4\" - 4 x 8 Treated CDX",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "2x4-10  #2 @ BTR KDSPF",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x6-10  #2 Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x8-10  #2 Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x10-10  #2 @ BTR Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x12-10  #2 @ BTR Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "4\" 20ga METAL STUD AND TRACK",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CURB CAP 2x2",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "CRICKETS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "DRAIN LEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "VTR LEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "TALL CONE 10<",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LARGE TALL CONES",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "PIPE BLOCKS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "DAVITS cb12 metal deck",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "METAL DECK REPLACEMENT",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "ABANDON & DECK < 2X2",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "ABANDON & DECK 4X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 pc"
+                    },
+                    {
+                        "Description": "DECK PLATES",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "RAISE CURBS 2X2",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "RAISE CURBS 4X4",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "DIS/REASSEMBLE DUCTING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SKYLIGHT 48\"x48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SKYLIGHT SCREEN",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "ROOF HATCH",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SAFETY RAIL",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LADDER UP POST",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "MISCELLANEOUS",
+                        "Quantity": 3.0,
+                        "UOM": ""
+                    },
+                    {
+                        "Description": "Sheet Cost",
+                        "Quantity": 0.0,
+                        "UOM": ""
+                    },
+                    {
+                        "Description": "MATERIAL ESCALATER",
+                        "Quantity": 0.0,
+                        "UOM": "Sub Total"
+                    },
+                    {
+                        "Description": 0.05,
+                        "Quantity": 0.0,
+                        "UOM": "Tax %"
+                    }
+                ]
             },
             {
                 "scope_id": "809801d0-bea2-41a0-ad4b-6b9091e25cee",

@@ -1,0 +1,125 @@
+{
+    "3f63ff5c-5555-44da-aebd-4b6606c194a3": {
+        "id": "3f63ff5c-5555-44da-aebd-4b6606c194a3",
+        "project_name": "Douglas Public",
+        "scopes": [
+            {
+                "scope_id": "651a6696-0c8a-4dc7-be0a-dc7135947f3a",
+                "scope_of_work": "074213 Metal wall panels ",
+                "spec_filename": "074213 Metal Wall Panel - Rainscreen Assembly.pdf",
+                "ai_summary": {
+                    "project_name": "DOUGLAS COUNTY PUBLIC SAFETY BUILDING",
+                    "spec_section": "SECTION 07 4213 METAL WALL PANEL / RAINSCREEN ASSEMBLY",
+                    "addendum": "Addendum 02 issued 11-07-24",
+                    "material_systems": [
+                        {
+                            "system_name": "Self-Adhering Vapor Permeable Air and Water Barrier",
+                            "attributes": {
+                                "General Type": "Liquid applied, vapor permeable, water-based polymer modified membrane that cures to form a water resistive air barrier",
+                                "Basis of Design": "IntelliWrap LVP by Innovative Metals Company, Inc. (IMETCO), Norcross, Georgia (678) 656-1265",
+                                "Material": {
+                                    "Panels and Accessories": "Liquid applied, vapor permeable, water-based polymer modified membrane"
+                                }
+                            }
+                        },
+                        {
+                            "system_name": "Thermal Building Insulation",
+                            "attributes": {
+                                "General Type": "Continuous exterior rigid mineral fiber board thermal insulation",
+                                "Basis of Design": "Rockwool ComfortBoard CIS by Innovative Metals Company, Inc. (IMETCO), Norcross, Georgia (678) 656-1265",
+                                "Material": {
+                                    "Panels and Accessories": "Basalt rock and slag mineral fiber board insulation, Type IV-B in accordance with ASTM C612"
+                                }
+                            }
+                        },
+                        {
+                            "system_name": "Metal Wall Panels (MWP-1)",
+                            "attributes": {
+                                "General Type": "Single-skin, labyrinth-joint metal cladding panels for rainscreen-principle wall system, interlocking seams incorporating concealed anchor clips",
+                                "Basis of Design": "IMETCO Element wall system as manufactured by Innovative Metals Company, Inc. (IMETCO), Norcross, Georgia, telephone (678) 656-1265",
+                                "Material": {
+                                    "Panels and Accessories": "Aluminum sheet 0.080 inch thick, alloy 3003, 3004, 3005, or 3105 with H14 or H24 heat treatment, as per ASTM B209/209M. Smooth surface.",
+                                    "Fasteners (Exterior)": "Concealed fasteners: Corrosion resistant steel screws, #10 minimum diameter x length appropriate for substrate, hex washer head or pancake head. Use self-drilling, self-tapping for metal substrate or A-point for plywood substrate."
+                                },
+                                "Finish": {
+                                    "System": "Exposed Coil-Coated Finish and Concealed Finish",
+                                    "Composition": {
+                                        "Exposed": "2-Coat Fluoropolymer: AAMA 621. Fluoropolymer finish containing not less than 70 percent PVDF resin by weight in color coat. Nominal 1.0 mil dry film thickness, consisting of primer and color coat.",
+                                        "Concealed": "Pretreatment and manufacturer's standard white or light-colored polyester backer finish, consisting of prime coat and wash coat with a minimum total dry film thickness of 0.5 mil."
+                                    }
+                                },
+                                "Fabrication": {
+                                    "Standard": "Factory formed from specified metal, by manufacturer's standard procedures and processes.",
+                                    "Seams (Aluminum)": "Interlocking seams incorporating concealed anchor clips"
+                                }
+                            }
+                        },
+                        {
+                            "system_name": "Metal Wall Panels (MWP-2)",
+                            "attributes": {
+                                "General Type": "Single-skin, factory-formed metal wall panels, field assembled by overlapping and attaching to wall structure with exposed screw fasteners for rainscreen-principle wall system, trapezoidal ribs at 7.2\u201d on center.",
+                                "Basis of Design": "IMETCO 7.2 Rib Panel system as manufactured by Innovative Metals Company, Inc. (IMETCO), Norcross, Georgia, telephone (678) 656-1265",
+                                "Material": {
+                                    "Panels and Accessories": "Aluminum sheet 0.040 inch thick, alloy 3003, 3004, 3005, or 3105 with H14 or H24 heat treatment, as per ASTM B209/209M. Smooth surface.",
+                                    "Fasteners (Exterior)": "Exposed fasteners: 3xx series stainless steel screws (cadmium or zinc coatings are not acceptable) with neoprene sealing washer, or 1/8-inch diameter stainless steel rivets."
+                                },
+                                "Finish": {
+                                    "System": "Exposed Coil-Coated Finish and Concealed Finish",
+                                    "Composition": {
+                                        "Exposed": "2-Coat Fluoropolymer: AAMA 621. Fluoropolymer finish containing not less than 70 percent PVDF resin by weight in color coat. Nominal 1.0 mil dry film thickness, consisting of primer and color coat.",
+                                        "Concealed": "Pretreatment and manufacturer's standard white or light-colored polyester backer finish, consisting of prime coat and wash coat with a minimum total dry film thickness of 0.5 mil."
+                                    }
+                                },
+                                "Fabrication": {
+                                    "Standard": "Factory formed from specified metal, by manufacturer's standard procedures and processes.",
+                                    "Seams (Aluminum)": "Overlapping and sealing seams"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "estimate_data": []
+            },
+            {
+                "scope_id": "809801d0-bea2-41a0-ad4b-6b9091e25cee",
+                "scope_of_work": "076200 Sheet Metal",
+                "spec_filename": "076200 Sheet MEtal Flashing and Trim.pdf",
+                "ai_summary": {
+                    "project_name": "DOUGLAS COUNTY PUBLIC SAFETY BUILDING",
+                    "spec_section": "SHEET METAL FLASHING AND TRIM",
+                    "material_systems": [
+                        {
+                            "system_name": "Sheet Metal Flashing and Trim",
+                            "attributes": {
+                                "General Type": "Formed Sheet Metal Fabrications",
+                                "Material": {
+                                    "Panels and Accessories": "Aluminum Sheet (ASTM B209, manufacturer's standard alloy/temper, min. 60% recycled content); Stainless Steel Sheet (ASTM A240/A240M Type 304, dead soft, fully annealed, min. 50% recycled content)",
+                                    "Fasteners (Exterior)": "Gasketed, hex-washer head blind or self-drilling screws. Exposed fasteners: color-matched, with metal-backed EPDM/PVC sealing washers. Blind fasteners: high-strength aluminum or Series 300 stainless steel rivets. For Aluminum: aluminum or Series 300 stainless steel. For Stainless Steel: Series 300 stainless steel."
+                                },
+                                "Finish": {
+                                    "System": "Coil-Coated (Aluminum); Mill Finish (Stainless Steel)",
+                                    "Composition": "Aluminum Exposed: Three-Coat Fluoropolymer (AAMA 2605, min. 70% PVDF resin). Aluminum Concealed: Manufacturer's standard white or light-colored acrylic or polyester backer finish (prime + wash coat, min. 0.5 mil DFT). Stainless Steel: ASTM A480/A480M, No. 2D (dull, cold rolled)."
+                                },
+                                "Fabrication": {
+                                    "Standard": "NRCA 'The NRCA Roofing Manual: Architectural Metal Flashing, Condensation and Air Leakage Control, and Reroofing'; SMACNA 'Architectural Sheet Metal Manual'",
+                                    "Seams (Aluminum)": "Flat-lock seams, sealed with epoxy seam sealer; riveted for strength."
+                                }
+                            }
+                        },
+                        {
+                            "system_name": "Reglets",
+                            "attributes": {
+                                "General Type": "Formed units for secure interlocking with counterflashing",
+                                "Basis of Design": "Fry Reglet Corporation; Springlok Flashing System",
+                                "Material": {
+                                    "Panels and Accessories": "Stainless steel, 0.019 inch thick; Aluminum, 0.024 inch thick"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "estimate_data": []
+            }
+        ]
+    }
+}

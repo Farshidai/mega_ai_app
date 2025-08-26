@@ -1,0 +1,10 @@
+# Python virtual environment and cache
+/backend/venv/
+/backend/__pycache__/
+
+# Node.js dependencies and build output
+/frontend/node_modules/
+/frontend/build/
+
+# macOS system file (good practice for cross-platform projects)
+.DS_Store

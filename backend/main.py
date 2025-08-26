@@ -8,22 +8,25 @@ from pydantic import BaseModel
 from typing import Optional, List, Dict
 import json
 import uuid
+from dotenv import load_dotenv # Import the library
 
-# --- AI Configuration ---
-API_KEY = "AIzaSyAxld93RME5WttQkVJMw9Rb6fnkAwAuJ_M" 
+# --- Securely Load API Key ---
+load_dotenv() # Load variables from the .env file
+API_KEY = os.getenv("GEMINI_API_KEY")
+if not API_KEY:
+    raise ValueError("GEMINI_API_KEY environment variable not found. Please create a .env file in the 'backend' folder.")
+
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key={API_KEY}"
 
 # --- File-based Database ---
 DB_FILE = "projects.json"
 projects_db: Dict[str, Dict] = {}
 
-# --- Pydantic Models ---
 class PriceUpdateRequest(BaseModel):
     scope_id: str
     item_index: int
     unit_price: float
 
-# --- Database Persistence Functions ---
 def save_db():
     with open(DB_FILE, "w") as f:
         json.dump(projects_db, f, indent=4)

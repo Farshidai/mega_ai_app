@@ -8,3 +8,5 @@
 
 # macOS system file (good practice for cross-platform projects)
 .DS_Store
+# Ignore environment files
+.env

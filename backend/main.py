@@ -13,6 +13,12 @@ from dotenv import load_dotenv # Import the library
 # --- Securely Load API Key ---
 load_dotenv() # Load variables from the .env file
 API_KEY = os.getenv("GEMINI_API_KEY")
+
+# --- Diagnostic Print Statement ---
+print("--- DIAGNOSTIC: LOADED API KEY ---")
+print(f"The API key loaded from .env is: {API_KEY}")
+print("------------------------------------")
+
 if not API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable not found. Please create a .env file in the 'backend' folder.")
 

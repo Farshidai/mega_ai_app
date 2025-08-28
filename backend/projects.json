@@ -1,52 +1,1060 @@
 {
-    "6ce23f51-3014-4aeb-9062-7daae2c92e38": {
-        "id": "6ce23f51-3014-4aeb-9062-7daae2c92e38",
-        "project_name": "hg",
+    "65f18ba6-aecf-4cda-b8aa-c650ceb8168d": {
+        "id": "65f18ba6-aecf-4cda-b8aa-c650ceb8168d",
+        "project_name": "douglas",
         "scopes": [
             {
-                "scope_id": "199da063-f9bc-4a87-ad97-120cf6a0e9bc",
-                "scope_of_work": "jghjh",
+                "scope_id": "f9e418c1-c6ac-4dd0-bab9-166e1ad9c4bb",
+                "scope_of_work": "Spec Sections:\r\n\u2022\t07 2100 \u2013 Thermal Insulation as Applicable to Metal Wall Panels. \r\n\u2022\t07 4113 \u2013 Standing Seam Metal Roofing\r\n\u2022\t07 4213 \u2013 Metal Wall Panel / Rainscreen Assembly\r\n\u2022\t07 4293 \u2013 Metal Soffit Panels\r\n\u2022\t07 6200 \u2013 Sheet Metal Flashing and Trim\r\n\u2022\t07 7200 \u2013 Roof Accessories:\r\n",
                 "spec_filename": "074213 Metal Wall Panel - Rainscreen Assembly.pdf",
                 "ai_summary": {
-                    "error": "The AI model returned an error (Code: 400)."
-                },
-                "estimate_data": []
-            }
-        ]
-    },
-    "009dfb3c-502c-4d07-8089-e49e2c156202": {
-        "id": "009dfb3c-502c-4d07-8089-e49e2c156202",
-        "project_name": "kl",
-        "scopes": [
-            {
-                "scope_id": "99999456-3c16-4dd2-8d43-db6dadb215f2",
-                "scope_of_work": "hfv",
-                "spec_filename": "074113 Standing Seam Roof Panels.pdf",
-                "ai_summary": {
                     "project_name": "DOUGLAS COUNTY PUBLIC SAFETY BUILDING",
-                    "spec_section": "074113",
+                    "spec_section": "SECTION 07 4213 METAL WALL PANEL / RAINSCREEN ASSEMBLY",
+                    "addendum": "Addendum 02 issued 11-07-24",
                     "material_systems": [
                         {
-                            "system_name": "Standing Seam Roof Panels",
+                            "system_name": "Metal Wall Panels (MWP-1)",
                             "attributes": {
-                                "General Type": "Vertical-Rib, Standing-Seam Metal Roof Panels with field seamed panel legs",
-                                "Basis of Design": "IMETCO (Merchant & Evans) ZIP RIB roof panel system as manufactured by Innovative Metals Company, Inc. (IMETCO), Norcross, Georgia",
+                                "General Type": "Factory-formed, field assembled by interlocking seams, concealed clip, lap-seam wall panels with ribs at 4 inches on center.",
+                                "Basis of Design": "IMETCO Element wall system as manufactured by Innovative Metals Company, Inc. (IMETCO), Norcross, Georgia, telephone (678) 656-1265.",
                                 "Material": {
-                                    "Panels and Accessories": "Painted, metallic-Coated Steel Sheet (ASTM A755/A755M), 22 gauge, Zinc-Coated (Galvanized) Steel Sheet (ASTM A653: G90 (Z275) coating designation; structural quality, minimum grade 40 ksi (275 MPa)). Concealed Standard Anchor Clips: two-piece sliding type with an 18-gauge (1.3 mm) galvanized steel base and 20-gauge (0.9 mm) galvanized steel top hook. Gable anchor clips: 18 gauge (1.3 mm) galvanized steel. Seam Sealant: Factory applied hot melt, high viscosity, pressure sensitive adhesive with high heat resistance.",
-                                    "Fasteners (Exterior)": "3xx series stainless steel screws with neoprene sealing washer, or 1/8-inch- (3-mm-) diameter stainless steel rivets."
+                                    "Panels and Accessories": "Aluminum sheet 0.080 inch thick"
                                 },
                                 "Finish": {
-                                    "System": "Exposed: 2-Coat Fluoropolymer (AAMA 621). Concealed: Pretreatment and manufacturer's standard white or light-colored polyester backer finish.",
-                                    "Composition": "Exposed: Fluoropolymer finish containing not less than 70 percent PVDF resin by weight in color coat, nominal 1.0 mil (0.025 mm) dry film thickness (primer and color coat). Concealed: Minimum total dry film thickness of 0.5 mil (0.013 mm)."
+                                    "System": "2-Coat Fluoropolymer, AAMA 621, nominal 1.0 mil dry film thickness, consisting of primer and color coat.",
+                                    "Composition": "Fluoropolymer finish containing not less than 70 percent PVDF resin by weight in color coat."
                                 },
                                 "Fabrication": {
-                                    "Standard": "Fabricated and finished at the factory to greatest extent possible by manufacturer's standard procedures and processes; comply with indicated profiles and dimensional/structural requirements. Sheet metal accessories comply with SMACNA's 'Architectural Sheet Metal Manual'."
+                                    "Standard": "Fabricate and finish at the factory to greatest extent possible, by manufacturer's standard procedures and processes, complying with indicated profiles and with dimensional and structural requirements."
+                                }
+                            }
+                        },
+                        {
+                            "system_name": "Metal Wall Panels (MWP-2)",
+                            "attributes": {
+                                "General Type": "Factory-formed, field assembled by overlapping and sealing seams, exposed fastener lap seam wall panels with trapezoidal ribs at 7.2\u201d on center.",
+                                "Basis of Design": "IMETCO 7.2 Rib Panel system as manufactured by Innovative Metals Company, Inc. (IMETCO), Norcross, Georgia, telephone (678) 656-1265.",
+                                "Material": {
+                                    "Panels and Accessories": "Aluminum sheet 0.040 inch thick",
+                                    "Fasteners (Exterior)": "3xx series stainless steel screws with neoprene sealing washer, or 1/8-inch diameter stainless steel rivets."
+                                },
+                                "Finish": {
+                                    "System": "2-Coat Fluoropolymer, AAMA 621, nominal 1.0 mil dry film thickness, consisting of primer and color coat.",
+                                    "Composition": "Fluoropolymer finish containing not less than 70 percent PVDF resin by weight in color coat."
+                                },
+                                "Fabrication": {
+                                    "Standard": "Fabricate and finish at the factory to greatest extent possible, by manufacturer's standard procedures and processes, complying with indicated profiles and with dimensional and structural requirements."
                                 }
                             }
                         }
                     ]
                 },
-                "estimate_data": []
+                "estimate_data": [
+                    {
+                        "Description": "COPING 16\" SO",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 24\" SO",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 25\"-36\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 36\"-48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "PREMAN COPING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "RADIUS COPING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "GRAVEL STOP",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COUNTER FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SCUPPERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "CONDUCTOR HEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "GUTTER",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SEAMLESS 6\" GUTTER",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "DOWNSPOUTS",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SKIRT FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2 PIECE EXPANSION JT COVERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "EXPANSION BELLOWS & BATT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING MITERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "COPING UNDERLAYMENT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CUT REGLET",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CLEAT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COMPOSITE RAIN SCREEN",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE WET SEAL ",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE REVEAL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE COLUMN COVER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "PROFILE WALL PANELS",
+                        "Quantity": 4000.0,
+                        "UOM": "1 SQFT",
+                        "unitPrice": 4.23,
+                        "total": 16920.0
+                    },
+                    {
+                        "Description": "ALUM PLATE PANELS",
+                        "Quantity": 1375.0,
+                        "UOM": "1 SQFT",
+                        "unitPrice": 5.61,
+                        "total": 7713.75
+                    },
+                    {
+                        "Description": "ALUM PLATE COLUMN COVER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT",
+                        "unitPrice": 0.0,
+                        "total": 0.0
+                    },
+                    {
+                        "Description": "SOFFITS",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "STANDING SEAM",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "TALL INSULATED PANEL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "REVEAL INSULATED PANEL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "ACM FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "WALL PANEL FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "STANDING SEAM FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SOFFIT FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "IWP FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "PANEL MITERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "HAT CHANNEL",
+                        "Quantity": 3040.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "ZEE GIRT",
+                        "Quantity": 2200.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "GREEN GIRT W/ INSULATION",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "FASCIA 12\" S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "FASCIA 13\" - 24\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "FASCIA 25\" - 48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "VALLEY FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "HIP AND RIDGE FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "LEDGE FLASHING 12\" S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "LEDGE FLASHING 13\"+ S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "INSULATION - ROOF",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "INSULATION - WALL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "GYP BOARD",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "IWS/AIR BARRIER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "SNOW GUARD PAD STYLE",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SNOW RAIL",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "PITCH PANS UP TO 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "OVERSIZED PAN OVER 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LIDS UP TO 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LIDS OVER 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SPLASH BLOCK",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SPLASH PAN",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "THRU WALL FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "WINDOW/DOOR TRIM",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "3/4\" - 4 x 8 Treated CDX",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "2x4-10  #2 @ BTR KDSPF",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x6-10  #2 Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x8-10  #2 Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x10-10  #2 @ BTR Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x12-10  #2 @ BTR Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "4\" 20ga METAL STUD AND TRACK",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CURB CAP 2x2",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "CRICKETS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "DRAIN LEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "VTR LEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "TALL CONE 10<",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LARGE TALL CONES",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "PIPE BLOCKS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "DAVITS cb12 metal deck",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "METAL DECK REPLACEMENT",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "ABANDON & DECK < 2X2",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "ABANDON & DECK 4X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 pc"
+                    },
+                    {
+                        "Description": "DECK PLATES",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "RAISE CURBS 2X2",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "RAISE CURBS 4X4",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "DIS/REASSEMBLE DUCTING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SKYLIGHT 48\"x48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SKYLIGHT SCREEN",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "ROOF HATCH",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SAFETY RAIL",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LADDER UP POST",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "MISCELLANEOUS",
+                        "Quantity": 3.0,
+                        "UOM": ""
+                    },
+                    {
+                        "Description": "Sheet Cost",
+                        "Quantity": 0.0,
+                        "UOM": ""
+                    },
+                    {
+                        "Description": "MATERIAL ESCALATER",
+                        "Quantity": 0.0,
+                        "UOM": "Sub Total"
+                    },
+                    {
+                        "Description": 0.05,
+                        "Quantity": 0.0,
+                        "UOM": "Tax %"
+                    }
+                ]
+            }
+        ]
+    },
+    "e9616b3e-4ad4-479a-a1e5-965e2d316c82": {
+        "id": "e9616b3e-4ad4-479a-a1e5-965e2d316c82",
+        "project_name": "Douglas",
+        "scopes": [
+            {
+                "scope_id": "983c5b3c-0dcd-417b-a320-640a0f8e3179",
+                "scope_of_work": "Spec Sections:\r\n\u2022\t07 2100 \u2013 Thermal Insulation as Applicable to Metal Wall Panels. \r\n\u2022\t07 4113 \u2013 Standing Seam Metal Roofing\r\n\u2022\t07 4213 \u2013 Metal Wall Panel / Rainscreen Assembly\r\n\u2022\t07 4293 \u2013 Metal Soffit Panels\r\n\u2022\t07 6200 \u2013 Sheet Metal Flashing and Trim\r\n\u2022\t07 7200 \u2013 Roof Accessories:\r\n",
+                "spec_filename": "074213 Metal Wall Panel - Rainscreen Assembly.pdf",
+                "ai_summary": {
+                    "project_name": "DOUGLAS COUNTY PUBLIC SAFETY BUILDING",
+                    "spec_section": "07 4213 METAL WALL PANEL / RAINSCREEN ASSEMBLY",
+                    "addendum": "Addendum 02 issued 11-07-24",
+                    "material_systems": [
+                        {
+                            "system_name": "Metal Wall Panels (MWP-1)",
+                            "attributes": {
+                                "General Type": "Factory-formed metal wall panels designed to be field assembled by interlocking seams incorporating concealed anchor clips, allowing thermal movement; concealed clip, lap-seam wall panels with ribs at 4 inches on center.",
+                                "Basis of Design": "IMETCO Element wall system as manufactured by Innovative Metals Company, Inc. (IMETCO)",
+                                "Material": {
+                                    "Panels and Accessories": "0.080 inch thick aluminum sheet, alloy 3003, 3004, 3005, or 3105 with H14 or H24 heat treatment, as per ASTM B209/209M; smooth surface.",
+                                    "Fasteners (Exterior)": "Corrosion resistant steel screws, #10 minimum diameter x length appropriate for substrate, hex washer head or pancake head (for concealed applications)."
+                                },
+                                "Finish": {
+                                    "System": "Exposed Coil-Coated Finish (2-Coat Fluoropolymer: AAMA 621, primer and color coat, nominal 1.0 mil dry film thickness); Concealed Finish (pretreatment and manufacturer's standard white or light-colored polyester backer finish, prime coat and wash coat, minimum total dry film thickness of 0.5 mil).",
+                                    "Composition": "Exposed: Fluoropolymer finish containing not less than 70 percent PVDF resin by weight in color coat. Concealed: Manufacturer's standard white or light-colored polyester backer finish."
+                                },
+                                "Fabrication": {
+                                    "Standard": "Factory-formed panels and accessories by manufacturer's standard procedures; comply with indicated profiles and dimensional/structural requirements. Flashing components from full single width sheet in minimum 10\u2019-0\u201d sections, mitered trim corners joined with closed end pop rivets and butyl-based, solvent released one-part sealant. Sheet metal accessories comply with SMACNA's \"Architectural Sheet Metal Manual\".",
+                                    "Seams (Aluminum)": "Interlocking seams incorporating concealed anchor clips. Nonexpanding but movable joints in metal to accommodate butyl-based sealant to comply with SMACNA standards."
+                                }
+                            }
+                        },
+                        {
+                            "system_name": "Metal Wall Panels (MWP-2)",
+                            "attributes": {
+                                "General Type": "Factory-formed metal wall panels designed to be field assembled by overlapping and sealing seams, and attaching to wall structure with exposed screw fasteners; exposed fastener lap seam wall panels with trapezoidal ribs at 7.2 inches on center.",
+                                "Basis of Design": "IMETCO 7.2 Rib Panel system as manufactured by Innovative Metals Company, Inc. (IMETCO)",
+                                "Material": {
+                                    "Panels and Accessories": "0.040 inch thick aluminum sheet, alloy 3003, 3004, 3005, or 3105 with H14 or H24 heat treatment, as per ASTM B209/209M; smooth surface.",
+                                    "Fasteners (Exterior)": "3xx series stainless steel screws with neoprene sealing washer, or 1/8-inch diameter stainless steel rivets (for exposed applications)."
+                                },
+                                "Finish": {
+                                    "System": "Exposed Coil-Coated Finish (2-Coat Fluoropolymer: AAMA 621, primer and color coat, nominal 1.0 mil dry film thickness); Concealed Finish (pretreatment and manufacturer's standard white or light-colored polyester backer finish, prime coat and wash coat, minimum total dry film thickness of 0.5 mil).",
+                                    "Composition": "Exposed: Fluoropolymer finish containing not less than 70 percent PVDF resin by weight in color coat. Concealed: Manufacturer's standard white or light-colored polyester backer finish."
+                                },
+                                "Fabrication": {
+                                    "Standard": "Factory-formed panels and accessories by manufacturer's standard procedures; comply with indicated profiles and dimensional/structural requirements. Flashing components from full single width sheet in minimum 10\u2019-0\u201d sections, mitered trim corners joined with closed end pop rivets and butyl-based, solvent released one-part sealant. Sheet metal accessories comply with SMACNA's \"Architectural Sheet Metal Manual\".",
+                                    "Seams (Aluminum)": "Overlapping and sealing seams. Nonexpanding but movable joints in metal to accommodate butyl-based sealant to comply with SMACNA standards."
+                                }
+                            }
+                        },
+                        {
+                            "system_name": "Self-Adhering Vapor Permeable Air and Water Barrier",
+                            "attributes": {
+                                "General Type": "Liquid applied, vapor permeable, water-based polymer modified membrane that cures to form a water resistive air barrier, including all necessary sheet goods, flashing, tapes, mastics, and sealants.",
+                                "Basis of Design": "IntelliWrap LVP by Innovative Metals Company, Inc. (IMETCO)",
+                                "Material": {
+                                    "Panels and Accessories": "Liquid applied, vapor permeable, water-based polymer modified membrane (cures to form a water resistive air barrier). Applied at 25 to 30 ft2/gal for 64 mils wet film thickness, yielding 40 mils cured dry film thickness."
+                                }
+                            }
+                        },
+                        {
+                            "system_name": "Thermal Building Insulation",
+                            "attributes": {
+                                "General Type": "Continuous exterior rigid mineral fiber board thermal insulation, free of defects, meeting ASTM E612, Type IV-B performance requirements.",
+                                "Basis of Design": "Rockwool ComfortBoard CIS by Innovative Metals Company, Inc. (IMETCO)",
+                                "Material": {
+                                    "Panels and Accessories": "Basalt rock and slag mineral fiber board insulation, Type IV-B in accordance with ASTM C612. Thickness: 1 layer of 2.0-inch (overall nominal R-value at 75\u00baF equal to R-8.6). Size: 24-inches x 48-inches or 48-inches x 72-inches."
+                                }
+                            }
+                        }
+                    ]
+                },
+                "estimate_data": [
+                    {
+                        "Description": "COPING 16\" SO",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 24\" SO",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 25\"-36\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING 36\"-48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "PREMAN COPING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "RADIUS COPING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "GRAVEL STOP",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COUNTER FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SCUPPERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "CONDUCTOR HEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "GUTTER",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SEAMLESS 6\" GUTTER",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "DOWNSPOUTS",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SKIRT FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2 PIECE EXPANSION JT COVERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "EXPANSION BELLOWS & BATT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COPING MITERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "COPING UNDERLAYMENT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CUT REGLET",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CLEAT",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "COMPOSITE RAIN SCREEN",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE WET SEAL ",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE REVEAL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "COMPOSITE COLUMN COVER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "PROFILE WALL PANELS",
+                        "Quantity": 4000.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "ALUM PLATE PANELS",
+                        "Quantity": 1375.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "ALUM PLATE COLUMN COVER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "SOFFITS",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "STANDING SEAM",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "TALL INSULATED PANEL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "REVEAL INSULATED PANEL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "ACM FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "WALL PANEL FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "STANDING SEAM FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SOFFIT FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "IWP FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "PANEL MITERS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "HAT CHANNEL",
+                        "Quantity": 3040.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "ZEE GIRT",
+                        "Quantity": 2200.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "GREEN GIRT W/ INSULATION",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQFT"
+                    },
+                    {
+                        "Description": "FASCIA 12\" S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "FASCIA 13\" - 24\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "FASCIA 25\" - 48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "VALLEY FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "HIP AND RIDGE FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "LEDGE FLASHING 12\" S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "LEDGE FLASHING 13\"+ S.O.",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "INSULATION - ROOF",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "INSULATION - WALL",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "GYP BOARD",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "IWS/AIR BARRIER",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "SNOW GUARD PAD STYLE",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SNOW RAIL",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "PITCH PANS UP TO 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "OVERSIZED PAN OVER 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LIDS UP TO 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LIDS OVER 8X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SPLASH BLOCK",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SPLASH PAN",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "THRU WALL FLASHING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "WINDOW/DOOR TRIM",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "3/4\" - 4 x 8 Treated CDX",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "2x4-10  #2 @ BTR KDSPF",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x6-10  #2 Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x8-10  #2 Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x10-10  #2 @ BTR Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "2x12-10  #2 @ BTR Douglas Fir",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "4\" 20ga METAL STUD AND TRACK",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "CURB CAP 2x2",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "CRICKETS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "DRAIN LEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "VTR LEADS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "TALL CONE 10<",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LARGE TALL CONES",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "PIPE BLOCKS",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "DAVITS cb12 metal deck",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "METAL DECK REPLACEMENT",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "ABANDON & DECK < 2X2",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "ABANDON & DECK 4X8",
+                        "Quantity": 0.0,
+                        "UOM": "1 pc"
+                    },
+                    {
+                        "Description": "DECK PLATES",
+                        "Quantity": 0.0,
+                        "UOM": "1 SQ"
+                    },
+                    {
+                        "Description": "RAISE CURBS 2X2",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "RAISE CURBS 4X4",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "DIS/REASSEMBLE DUCTING",
+                        "Quantity": 0.0,
+                        "UOM": "1 FT"
+                    },
+                    {
+                        "Description": "SKYLIGHT 48\"x48\"",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SKYLIGHT SCREEN",
+                        "Quantity": 0.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "ROOF HATCH",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "SAFETY RAIL",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "LADDER UP POST",
+                        "Quantity": 1.0,
+                        "UOM": "1 PC"
+                    },
+                    {
+                        "Description": "MISCELLANEOUS",
+                        "Quantity": 3.0,
+                        "UOM": ""
+                    },
+                    {
+                        "Description": "Sheet Cost",
+                        "Quantity": 0.0,
+                        "UOM": ""
+                    },
+                    {
+                        "Description": "MATERIAL ESCALATER",
+                        "Quantity": 0.0,
+                        "UOM": "Sub Total"
+                    },
+                    {
+                        "Description": 0.05,
+                        "Quantity": 0.0,
+                        "UOM": "Tax %"
+                    }
+                ]
             }
         ]
     }
